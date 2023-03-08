@@ -7,7 +7,7 @@ add-apt-repository ppa:kubuntu-ppa/backports
 git clone https://github.com/DadSchoorse/vkBasalt.git -b v0.3.2.9
 mv ./vkBasalt ./vkbasalt
 cp -rvf ./debian ./vkbasalt
-cd /vkbasalt
+cd ./vkbasalt
 
 # Get build deps
 apt-get build-dep ./ -y
