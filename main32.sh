@@ -11,6 +11,7 @@ cp -rvf ./debian ./vkbasalt
 cd ./vkbasalt
 
 # Get build deps
+LOGNAME=root dh_make --createorig -y -l -p vkbasalt_0.3.2.9
 ln -fs /usr/share/zoneinfo/America/New_York /etc/localtime
 DEBIAN_FRONTEND=noninteractive apt-get install -y tzdata
 apt-get build-dep -y ./
