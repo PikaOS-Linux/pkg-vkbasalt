@@ -1,5 +1,5 @@
 # Clone Upstream
-git clone https://github.com/DadSchoorse/vkBasalt.git -b v0.3.2.9
+git clone https://github.com/DadSchoorse/vkBasalt.git -b v0.3.2.10
 mv ./vkBasalt ./vkbasalt
 cp -rvf ./debian ./vkbasalt
 cd ./vkbasalt
