@@ -10,6 +10,7 @@ Build-Depends:
  glslang-tools,
  libx11-dev,
  libvulkan-dev,
+ vulkan-headers,
  spirv-headers,
 Rules-Requires-Root: no
 Standards-Version: 4.6.1
