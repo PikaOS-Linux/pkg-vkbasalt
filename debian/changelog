@@ -1,3 +1,9 @@
+vkbasalt (1:0.3.2.10-100pika1) pikauwu; urgency=medium
+
+  * Update to pikauwu
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Sat, 15 Oct 2022 18:58:00 +0300
+
 vkbasalt (1:0.3.2.10-99pika1.lunar) lunar; urgency=medium
 
   * Update to lunar
